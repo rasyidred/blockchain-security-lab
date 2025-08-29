@@ -1,0 +1,14 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+@uniswap/v2-core/=lib/v2-core/
+@uniswap/v3-core/=lib/v3-core/
+@uniswap/v3-periphery/=lib/v3-periphery/
+@api3/airnode-protocol/contracts/=lib/airnode/packages/airnode-protocol/contracts/
+@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/
+@src/=src/
+@test/=test/
+@script/=script/
+ds-test/=lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/

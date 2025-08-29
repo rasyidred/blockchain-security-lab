@@ -597,11 +597,13 @@ forge script script/Deploy.s.sol \
  
 <user_prompt>
 1. I need to create vulnerable contracts:
-- Reentrancy
-- Integer Overflow/Underflow
-- Unchecked call
-- Front-running
+    - Reentrancy
+    - Integer Overflow/Underflow
+    - Unchecked call
+    - Front-running
 
-2. Each contract has each folder, according to contract names.
-3. Each folder has the vulnerable contract, how to test that exploits smart contract (either only write usual unit test or fuzz test), and the fixed contract
+2. Each contract has each folder inside `src/` according to contract names (`src/<contract_name>`), both the vulnerable contract and the fix. Anal
+3. The exploit for each contract from `src/<contract_name>` has its counterpart location in `test/<contract_name>`
+4. Clear README with explanation, PoC, test results.
+5. Use context7, and always use the latest versions for everything
 </user_prompt>
