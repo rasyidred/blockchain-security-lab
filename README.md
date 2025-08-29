@@ -3,7 +3,7 @@
 > **A comprehensive educational repository for learning smart contract security through hands-on vulnerability demonstrations**
 
 [![Foundry](https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg)](https://getfoundry.sh/)
-[![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.20-blue.svg)](https://docs.soliditylang.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.27-blue.svg)](https://docs.soliditylang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 Purpose & Educational Value
